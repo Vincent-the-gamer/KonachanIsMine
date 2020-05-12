@@ -19,6 +19,6 @@ Version 1.0
 
 ## Download Link
 
-macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ "password : vfmm ") 
+macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm
 
 Windows : Please wait...I still don't package Windows Version.
