@@ -32,7 +32,7 @@ def downloadImages(num,path):  #页数，路径
         objHtml.append(f.get("href"))
     k = 0
     for i in objHtml:
-        urllib.request.urlretrieve(i, filename=path+"/{}.jpg".format(k))
+        urllib.request.urlretrieve(i, filename=path+"/{}_{}.jpg".format(num,k))
         k = k + 1
         #print(i)
 

@@ -4,6 +4,7 @@
 ---
 
 #### Konachan.com has a lot of anime pictures which have 1080+,4K or 4K+ Resolution.
+
 #### Author & Developer: Vincent Huang
 #### Youtube : SmokingSexyStyle
 #### Bilibili/Netease Music : 诡锋丶The_Joker
@@ -29,6 +30,6 @@ Version 1.0
 
 Download Python : https://www.python.org
 
-macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm  (BaiduDisk),other link pleast wait..
+macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm  (BaiduDisk),Or directly clone this project.
 
 Windows : Please wait...I still don't package Windows Version yet.
