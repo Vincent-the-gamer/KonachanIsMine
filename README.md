@@ -1,8 +1,15 @@
 # KonachanIsMine
-### This little program give you an epic experience of downloading pictures from Konachan.com just by choose path and download!
+### This little program gives you an epic experience of downloading pictures from Konachan.com just by choose path and download!
+
 ---
 
-#### Konachan.com has lot of anime pictures which have 1080+,4K or 4K+ Resolution. 
+#### Konachan.com has a lot of anime pictures which have 1080+,4K or 4K+ Resolution.
+#### Author & Developer: Vincent Huang
+#### Youtube : SmokingSexyStyle
+#### Bilibili/Netease Music : 诡锋丶The_Joker
+#### Github : https://github.com/vincent-the-gamer
+
+
 
 >go to Konachan.com: [Konachan](http://konachan.net/post)
 
@@ -17,8 +24,11 @@ Version 1.0
 
 ·  Url download is highly recommended
 
-## Download Link
+## Download Software
+### This Software requires Python 3.8.
 
-macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm
+Download Python : https://www.python.org
 
-Windows : Please wait...I still don't package Windows Version.
+macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm  (BaiduDisk),other link pleast wait..
+
+Windows : Please wait...I still don't package Windows Version yet.
