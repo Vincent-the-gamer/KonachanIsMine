@@ -27,9 +27,9 @@ Version 1.0
 
 ## Download Software
 ### This Software requires Python 3.8.
+The links below contains python 3.8 (macOS/Windows)，if it can't be installed correctly,
+please download python by yourself at: https://www.python.org
 
-Download Python : https://www.python.org
+macOS :  [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) password : uer8  (BaiduDisk),Or directly clone this project.
 
-macOS :  [Download Link](https://pan.baidu.com/s/11PsNhXDdvSytgZck3qEWzw/ " ") password : vfmm  (BaiduDisk),Or directly clone this project.
-
-Windows : Please wait...I still don't package Windows Version yet.
+Windows : [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) password : uer8  (BaiduDisk),Or directly clone this project.
