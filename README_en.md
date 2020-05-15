@@ -3,7 +3,7 @@
 
 ---
 
-#### Chinese Version : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README.md
+#### 中文版说明 : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README.md
 
 
 

@@ -1,7 +1,7 @@
 # KonachanIsMine
 ### 这个项目是给老哥们下载Konachan.com的图片的，K站有很多1080p+，4K，4K+的图片等你们来下载
 
-#### 嘤语版说明 : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README_en.md
+#### English Version : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README_en.md
 
 #### Youtube : SmokingSexyStyle
 #### Bilibili/网易云音乐 : 诡锋丶The_Joker
