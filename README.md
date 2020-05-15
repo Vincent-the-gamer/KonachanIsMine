@@ -1,35 +1,30 @@
 # KonachanIsMine
-### This little program gives you an epic experience of downloading pictures from Konachan.com just by choose path and download!
+### 这个项目是给老哥们下载Konachan.com的图片的，K站有很多1080p+，4K，4K+的图片等你们来下载
 
----
+#### 嘤语版说明 : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README_en.md
 
-#### Konachan.com has a lot of anime pictures which have 1080+,4K or 4K+ Resolution.
-
-#### Author & Developer: Vincent Huang
 #### Youtube : SmokingSexyStyle
-#### Bilibili/Netease Music : 诡锋丶The_Joker
+#### Bilibili/网易云音乐 : 诡锋丶The_Joker
+
 #### Github : https://github.com/vincent-the-gamer
 
+>直接飞到 Konachan.com: [Konachan](http://konachan.net/post)
+
+#### FBI Warning : konachan.com 有福利！！！
 
 
->go to Konachan.com: [Konachan](http://konachan.net/post)
+版本 1.0 
 
-#### Warning : konachan.com contains 18+ contents.
+·  支持直接下载或者下载URL功能
 
+·  直接选择路径点击下载就行，贼简单
 
-Version 1.0 
+·  推荐下载URL，然后到迅雷啥的去下
 
-·  Support choice of directly download pictures or download urls
+## 下载这个软件
+### 需要Python 3.8环境
+下面的下载链接已经打包好了 python 3.8 (macOS/Windows)，如果装不了就自己去官网下吧: https://www.python.org
 
-·  Easily select the path you want to save your pictures
+macOS :  [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) 提取码 : uer8  (百度搞事盘),你也可以直接克隆项目.
 
-·  Url download is highly recommended
-
-## Download Software
-### This Software requires Python 3.8.
-The links below contains python 3.8 (macOS/Windows)，if it can't be installed correctly,
-please download python by yourself at: https://www.python.org
-
-macOS :  [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) password : uer8  (BaiduDisk),Or directly clone this project.
-
-Windows : [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) password : uer8  (BaiduDisk),Or directly clone this project.
+Windows : [Download Link](https://pan.baidu.com/s/1tjHCUY7pduMDp5j1qqwCAA) 提取码 : uer8  (百度搞事盘),你也可以直接克隆项目.
