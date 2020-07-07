@@ -10,8 +10,10 @@
 #### Konachan.com has a lot of anime pictures which have 1080+,4K or 4K+ Resolution.
 
 #### Author & Developer: Vincent Huang
+
 #### Youtube : SmokingSexyStyle
-#### Bilibili/Netease Music : 诡锋丶The_Joker
+#### Bilibili/Netease Music : --鸽神--诡锋
+
 #### Github : https://github.com/vincent-the-gamer
 
 

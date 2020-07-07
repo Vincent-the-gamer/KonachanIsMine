@@ -4,7 +4,7 @@
 #### English Version : https://github.com/Vincent-the-gamer/KonachanIsMine/blob/master/README_en.md
 
 #### Youtube : SmokingSexyStyle
-#### Bilibili/网易云音乐 : 诡锋丶The_Joker
+#### Bilibili/网易云音乐 : --鸽神--诡锋
 
 #### Github : https://github.com/vincent-the-gamer
 
