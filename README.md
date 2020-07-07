@@ -21,7 +21,12 @@
 
 ·  推荐下载URL，然后到迅雷啥的去下
 
+## 视频教程
+
+使用的视频教程在这：  https://www.bilibili.com/video/BV1aK4y187Vj?from=search&seid=15639023895765817043
+
 ## 下载这个软件
+
 ### 需要Python 3.8环境
 下面的下载链接已经打包好了 python 3.8 (macOS/Windows)，如果装不了就自己去官网下吧: https://www.python.org
 

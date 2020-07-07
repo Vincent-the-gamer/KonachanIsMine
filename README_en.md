@@ -31,7 +31,12 @@ Version 1.0
 
 ·  Url download is highly recommended
 
+## How To Use
+
+Video tutorial is here: https://www.bilibili.com/video/BV1aK4y187Vj?from=search&seid=15639023895765817043
+
 ## Download Software
+
 ### This Software requires Python 3.8.
 The links below contains python 3.8 (macOS/Windows)，if it can't be installed correctly,
 please download python by yourself at: https://www.python.org
